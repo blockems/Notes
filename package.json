@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/blockems/Notes/issues"
   },
-  "homepage": "https://github.com/blockems/Notes#readme"
+  "homepage": "https://github.com/blockems/Notes#readme",
+  "dependencies": {
+    "dataframe-js": "^1.4.3",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  }
 }
