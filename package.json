@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Node course work app",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockems/Notes.git"
+  },
+  "author": "Bruce Lock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockems/Notes/issues"
+  },
+  "homepage": "https://github.com/blockems/Notes#readme"
+}
