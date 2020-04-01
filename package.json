@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/blockems/Notes#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dataframe-js": "^1.4.3",
     "ejs": "^3.0.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "winston": "^3.2.1"
   }
 }
